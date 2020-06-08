@@ -4,8 +4,8 @@
     "occupation":"Software Engineer",
     "description":"I am an enthusatic learner and skillful developer with an eye of photographer",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I have started learning from textbooks so you cant see most of the ceritifcates im a bookworm so, i have proficency in Java, Python, Bash Scripting and i will be keep learning of technologies from the offical websites like python.org, oracle.com, it will be dry once you get a hang of it you will love it, i have done machine learning, Deep learning and Algorithms from Standford and apart from tech side, i do have a creative side i.e., im a photographer you can find me on unsplash @arcot, in case you are wondering what is arcot its my firstname",
+    "contactmessage":"Hi i'm Arcot feel free to see my linked-in, Github, Unsplash any queries you can drop a mail or text me thank you!.",
     "email": "gauthamarcot@yahoo.com",
     "phone": "+91 6361626707",
     "address":{
@@ -60,6 +60,12 @@
         "title":"Software Engineer",
         "years":"Oct 2019 - Present",
         "description":"I am a Java Developer, I was assigned to develop Restend points API's for QuickFilter's in the company website which filter out the products which ever user selects, was assigned to Product page for the company website using Solr, i was also working on few live issues, i was a debugger and also assigned to devops for AWS."
+      },
+      {
+        "company":"Cognive",
+        "title":"Co-Founder & Tech Blogger",
+        "years":"Aug 2019 - Present",
+        "description":"I will be taking care of backend code and server maintance and posting blogs."
       },
       {
         "company":"Verzo",
@@ -159,91 +165,67 @@
     "projects": [
       {
         "title":"Emotional Recogntion Software",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "category":"Emotional Recognition Software",
+        "image":"faceplus-example.png",
+        "url":"https://github.com/gauthamarcot/FREUD"
       },
       {
         "title":"Face Recgontion Lock",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"Face lock for laptops",
+        "image":"Emotional-AI-1024x707.jpg",
+        "url":"https://github.com/gauthamarcot/Sherlock"
       },
       {
         "title":"OCR for Id Cards",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "category":"Optical charecter recognition software",
+        "image":"1*kMUgsKRq0rhkN4JD9HrmSw.png",
+        "url":"https://github.com/Nivedita-del/ocr"
       },
       {
         "title":"Cognive Blog",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"A Learning Blog",
+        "image":"studio-2.jpg",
+        "url":"https://www.cognive.in"
       },
       {
         "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "category":"spring boot api for lms",
+        "image":"learning-management-systems-lms.jpg",
+        "url":"https://github.com/Cognive-in/LMS"
       }
     ]
   },
   "Certificate":{
     "certi": [
       {
-        "title":"Emotional Recogntion Software",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Certified Ethical Hacker",
+        "category":"EC-council",
+        "image":"ceh_arcot.png",
+        "url":"#"
       },
       {
-        "title":"Face Recgontion Lock",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Python MasterClass",
+        "category":"Udemy",
+        "image":"UC-14A8XA4A.jpg",
+        "url":"#"
       },
       {
-        "title":"OCR for Id Cards",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Java MasterClass",
+        "category":"Udemy",
+        "image":"Screenshot from 2020-06-08 18-52-11.png",
+        "url":"#"
       },
       {
-        "title":"Cognive Blog",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"SQL Masterclass",
+        "category":"Udemy",
+        "image":"UC-RPSVJI1W.jpg",
+        "url":"#"
       },
       {
-        "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Learning Management System(backend)",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"MircoServices",
+        "category":"Udemy",
+        "image":"micro.png",
+        "url":"#"
       }
     ]
   },
