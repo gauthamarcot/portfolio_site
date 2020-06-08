@@ -1,0 +1,262 @@
+{
+  "main": {
+    "name":"Arcot Gautham",
+    "occupation":"Software Engineer",
+    "description":"I am an enthusatic learner and skillful developer with an eye of photographer",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gauthamarcot@yahoo.com",
+    "phone": "+91 6361626707",
+    "address":{
+      "street":"Indiranagar",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "zip": "560027"
+    },
+    "website": "https://www.cognive.in",
+    "resumedownload":"https://pdfhost.io/v/AZneep.tw_Arcot_Gautham_CV1pdf.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/arcot.gautham",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/GauthamArcot",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arcot-gautham-2799a1135/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/xexon_1/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gauthamarcot",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Guru Nanak University",
+        "degree":"Mechanical",
+        "graduated":"June 2019",
+        "description": "I am mechanical engineer, with passion of computer science i was always into coding and stuff i was in E-cell in my university, i was in a startup when i was studying and i was also working in startup, like that i was a mentor in NASA space apps Challenge when i was in 4th year itself, i was also assisting my professors in their projects."
+      }
+    ],
+    "work":[
+      {
+        "company":"Zivame",
+        "title":"Software Engineer",
+        "years":"Oct 2019 - Present",
+        "description":"I am a Java Developer, I was assigned to develop Restend points API's for QuickFilter's in the company website which filter out the products which ever user selects, was assigned to Product page for the company website using Solr, i was also working on few live issues, i was a debugger and also assigned to devops for AWS."
+      },
+      {
+        "company":"Verzo",
+        "title":"IoT Developer Intern",
+        "years":"Mar 2019 - Aug 2019",
+        "description":"I was assigned to work on a Home Automation using Raspberry pi and Google Assistance."
+      },
+      {
+        "company":"Purple Wagon",
+        "title":"Web Developer Intern",
+        "years":"Jan 2018 - Feb 2019",
+        "description":"I was assigned to create muliple websites for the company clients, and also i was interacting with clients for project discussions and negotations, i was also assisting as a logo Designer and a photographer."
+      },
+      {
+        "company":"SUMVN",
+        "title":"Android Developer Intern",
+        "years":"Jan 2017 - Feb 2018",
+        "description":"I was Assigned to create an android application using java for an E-commerce Company called prideHunt."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Web(HTML, CSS, JS)",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"95%"
+      },
+      {
+        "name":"Docker",
+        "level":"65%"
+      },
+      {
+        "name":"Kubernets",
+        "level":"50%"
+      },
+      {
+        "name":"AWS",
+        "level":"50%"
+      },
+      {
+        "name":"GCP",
+        "level":"76%"
+      },
+      {
+        "name":"Solr",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Spring",
+        "level":"50%"
+      },
+      {
+        "name":"Machine Learning Algo",
+        "level":"95%"
+      },
+      {
+        "name":"Deep Learning Algo ",
+        "level":"85%"
+      },
+      {
+        "name":"Data Science",
+        "level":"75%"
+      },
+      {
+        "name":"Data Strctures and algo",
+        "level":"65%"
+      },
+      {
+        "name":"Bash Scripting",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Emotional Recogntion Software",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Face Recgontion Lock",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"OCR for Id Cards",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Cognive Blog",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "Certificate":{
+    "certi": [
+      {
+        "title":"Emotional Recogntion Software",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Face Recgontion Lock",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"OCR for Id Cards",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Cognive Blog",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Learning Management System(backend)",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
