@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"I am an enthusatic learner and skillful developer with an eye of photographer",
     "image":"profilepic.png",
-    "bio":"I have started learning from textbooks so you cant see most of the ceritifcates im a bookworm so, i have proficency in Java, Python, Bash Scripting and i will be keep learning of technologies from the offical websites like python.org, oracle.com, it will be dry once you get a hang of it you will love it, i have done machine learning, Deep learning and Algorithms from Standford and apart from tech side, i do have a creative side i.e., im a photographer you can find me on unsplash @arcot, in case you are wondering what is arcot its my firstname",
+    "bio":"I have started learning from textbooks so you cant see most of the ceritifcates im a bookworm so, i have proficency in Java, Python, Bash Scripting and i will be keep learning of technologies from the offical websites like python.org, oracle.com, it will be dry once you get a hang of it you will love it, i have done machine learning, Deep learning and Algorithms from Standford, i have worked on devops as well, i have made a proper devops strategy for a company and i have created my trojans and virus, apart from my base languages i do have profiecny in React js, Git, Docker, Kubernets, AWS, GCP, Heroku, as you can see my github, i have done few project in Machine Learning and Deep Learning in my github and apart from tech side, i do have a creative side i.e., im a photographer you can find me on unsplash @arcot, in case you are wondering what is arcot its my firstname",
     "contactmessage":"Hi i'm Arcot feel free to see my linked-in, Github, Unsplash any queries you can drop a mail or text me thank you!.",
     "email": "gauthamarcot@yahoo.com",
     "phone": "+91 6361626707",
@@ -45,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"This is about my Education",
     "education":[
       {
         "school":"Guru Nanak University",
