@@ -112,6 +112,18 @@
         "level":"95%"
       },
       {
+        "name":"Networking",
+        "level":"95%"
+      },
+      {
+        "name":"Pen-test",
+        "level":"68%"
+      },
+      {
+        "name":"Security Analysis",
+        "level":"75%"
+      },
+      {
         "name":"Docker",
         "level":"65%"
       },
